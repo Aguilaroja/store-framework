@@ -61,6 +61,7 @@
   },
   "sku-selector": {
     "props": {
+      "visibility": "always",
       "initialSelection": "empty",
       "visibleVariations": "name",
       "showVariationsErrorMessage": true
