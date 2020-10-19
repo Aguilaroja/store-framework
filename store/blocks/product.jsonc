@@ -63,7 +63,9 @@
     "props": {
       "visibility": "always",
       "initialSelection": "empty",
-      "visibleVariations": "name",
+      "visibleVariations": [
+        "name"
+      ],
       "showVariationsErrorMessage": true
     }
   }
