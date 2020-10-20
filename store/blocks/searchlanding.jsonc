@@ -1,5 +1,5 @@
 {
-    "store.custom#landing": {
+    "store.custom#searchlanding": {
         "blocks": [
             "image#landingbanner",
             "search-result-layout.customQuery"
