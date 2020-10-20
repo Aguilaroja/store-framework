@@ -2,7 +2,7 @@
     "store.custom#about-us": {
         "path": "/about-us"
     },
-    "store.custom#searchlanding": {
-        "path": "/searchlanding"
+    "store.custom#landing": {
+        "path": "/landing"
     }
 }
