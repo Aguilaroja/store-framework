@@ -9,7 +9,7 @@
             "orientation": "horizontal"
         }
     },
-    "vtex.menu@2.x:submenu#major":{
+    "vtex.menu@2.x:submenu#major-applicances":{
         "children":[
             "flex-layout.row#major"
         ]
@@ -22,10 +22,10 @@
     },
     "flex-layout.col#menu": {
         "children": [
-            "vtex.menu@2.x:menu#major"
+            "vtex.menu@2.x:menu#major-applicances"
         ]
     },
-    "vtex.menu@2.x:menu#major": {
+    "vtex.menu@2.x:menu#major-applicances": {
         "children": [
             "menu-item#refrigerators",
             "menu-item#ovens",
@@ -55,12 +55,12 @@
           "maxWidth": "200px"
         }
     },
-    "vtex.menu@2.x:submenu#small":{
+    "vtex.menu@2.x:submenu#small-applicances":{
         "children":[
-          "vtex.menu@2.x:menu#small"
+          "vtex.menu@2.x:menu#small-applicances"
         ]
     },
-    "vtex.menu@2.x:menu#small": {
+    "vtex.menu@2.x:menu#small-applicances": {
         "children": [
             "menu-item#mixers",
             "menu-item#toasters",
@@ -70,12 +70,12 @@
             "orientation": "vertical"
         }
     },
-    "vtex.menu@2.x:submenu#electronics":{
+    "vtex.menu@2.x:submenu#electronics-applicances":{
         "children":[
-          "vtex.menu@2.x:menu#electronics"
+          "vtex.menu@2.x:menu#electronics-applicances"
         ]
     },
-    "vtex.menu@2.x:menu#electronics": {
+    "vtex.menu@2.x:menu#electronics-applicances": {
         "children": [
             "menu-item#cameras",
             "menu-item#laptops",

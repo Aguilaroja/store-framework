@@ -9,7 +9,7 @@
         }
       },
       "blocks": [
-        "vtex.menu@2.x:submenu#major"
+        "vtex.menu@2.x:submenu#major-applicances"
       ]
   },
   "menu-item#small-appliances": {
@@ -22,7 +22,7 @@
         }
       },
       "blocks": [
-        "vtex.menu@2.x:submenu#small"
+        "vtex.menu@2.x:submenu#small-applicances"
       ]
   },
   "menu-item#electronics": {
@@ -36,7 +36,7 @@
       }
     },
     "blocks": [
-      "vtex.menu@2.x:submenu#electronics"
+      "vtex.menu@2.x:submenu#electronics-applicances"
     ]
   },
   "menu-item#refrigerators": {
